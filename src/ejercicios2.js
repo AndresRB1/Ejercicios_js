@@ -281,7 +281,7 @@ function obtenerPrimerosN(array, n) {
     for (let i = 0; i < array.length && i < n; i++) {
         resultado.push(array[i]);
     }
-    return resultado;
+    return resultado
 }
 
 // ██████  NO MODIFICAR DESDE AQUÍ ███████████
